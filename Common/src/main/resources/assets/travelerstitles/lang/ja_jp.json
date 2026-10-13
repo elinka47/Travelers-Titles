@@ -409,6 +409,10 @@
   "biome.betterend.umbrella_jungle": "かさの密林",
   "biome.betterend.waterfall_ponds": "滝落ちる泉",
 
+  "biome.galosphere.crystal_canyons": "クリスタルキャニオン",
+  "biome.galosphere.lichen_caves": "地衣類の洞窟",
+  "biome.galosphere.pink_salt_caves": "ピンクソルトの洞窟",
+
   "text.autoconfig.travelerstitles-fabric-26_1.title": "Traveler's Titles",
 
   "text.autoconfig.travelerstitles-fabric-26_1.option.biomes": "バイオームタイトルの設定",
